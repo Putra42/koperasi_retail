@@ -375,7 +375,6 @@ class _CheckoutSummaryRow extends StatelessWidget {
   }
 }
 
-
 class _PaymentSection extends StatelessWidget {
   const _PaymentSection({
     required this.selectedPayment,
